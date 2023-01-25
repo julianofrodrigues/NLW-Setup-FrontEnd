@@ -45,5 +45,6 @@ $ npm run dev
 - ``Axios``
 - ``Phosphor React``
 - ``DayJs``
-- ``Google Fonts``
+- ``Radix Ui``
+- ``CLSX``
 
