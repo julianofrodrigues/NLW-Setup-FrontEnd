@@ -40,8 +40,10 @@ $ npm run dev
 - ``JavaScript``
 - ``TypeScript``
 - ``React``
-- ``Next``
+- ``Vite``
 - ``Tailwind``
 - ``Axios``
+- ``Phosphor React``
+- ``DayJs``
 - ``Google Fonts``
 
