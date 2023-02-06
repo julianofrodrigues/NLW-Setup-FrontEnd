@@ -1,9 +1,9 @@
-<h1 align="center"> NLW-Setup-Front-End </h1>
+<h1 align="center"> 📆 NLW-Setup-Front-End </h1>
 
 # Project Summary
-Front-end of the NLW Setup... <br>
-The back-end is at this repository: <br>
-The mobile project is in this other repository:
+Front-End of nlw setup, which consists of creating a habit sheet<br>
+The back-end is at this repository: https://github.com/julianofrodrigues/NLW-Setup-BackEnd<br>
+The mobile project is in this other repository: https://github.com/julianofrodrigues/NLW-Setup-Mobile
 
 ## Application images below 
 </p>
@@ -17,7 +17,7 @@ The mobile project is in this other repository:
 To try it is very simple:<br>
 -Clone the repository
 ```bash
-$ git clone 
+$ git clone https://github.com/julianofrodrigues/NLW-Setup-FrontEnd
 ```
 -Download the libraries
 ```bash
